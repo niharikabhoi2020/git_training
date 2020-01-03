@@ -1,0 +1,4 @@
+1. learn vi commands
+2. read about git
+3. try commands
+4. order food 

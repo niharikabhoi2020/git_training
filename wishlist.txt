@@ -2,4 +2,5 @@
 2. read about git
 3. try commands
 4. order food
-5. try something new 
+5. try something new
+6. chane a line 

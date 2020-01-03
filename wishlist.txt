@@ -3,4 +3,5 @@
 3. try commands
 4. order food
 5. try something new
-6. chane a line 
+6. change a line 
+
